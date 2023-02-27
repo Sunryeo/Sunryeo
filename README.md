@@ -26,8 +26,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=FFFFFF"/>
 </div>
 <br/>
 <div align="center">
