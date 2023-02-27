@@ -33,9 +33,9 @@
 <br/>
 <div align="center">
   <img src="https://img.shields.io/badge/express-DB7093?style=flat-square&logo=express&logoColor=#000000"/>
-  <img src="https://img.shields.io/badge/MySQL-DB7093?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-DB7093?style=flat-square&logo=PostgreSQL&logoColor=#4169E1"/>
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=#52B0E7"/>
+  <img src="https://img.shields.io/badge/MySQL-3178C6?style=flat-square&logo=MySQL&logoColor=#4479A1"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-3178C6?style=flat-square&logo=PostgreSQL&logoColor=#4169E1"/>
+  <img src="https://img.shields.io/badge/Sequelize-DB7093?style=flat-square&logo=Sequelize&logoColor=#52B0E7"/>
 </div>
 
 <!--
