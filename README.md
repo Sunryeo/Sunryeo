@@ -4,13 +4,13 @@
 <br/>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeks9653&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunryeo&show_icons=true&theme=radical)
 
 </div>
 <br/>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeks9653)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunryeo)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <br/>
