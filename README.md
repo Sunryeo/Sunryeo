@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Sunryeo&vCenter=true&size=30&duration=5000&width=600)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Sunryeo+👋&vCenter=true&size=30&duration=5000&width=600)](https://git.io/typing-svg)
 <br/>
 <h2 align="center">🛠️ Github stats 🛠️</h2>
 <br/>
