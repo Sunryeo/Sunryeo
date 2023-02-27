@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/express-DB7093?style=flat-square&logo=express&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/MySQL-DB7093?style=flat-square&logo=MySQL&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/PostgreSQL-DB7093?style=flat-square&logo=PostgreSQL&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Sequelize-DB7093?style=flat-square&logo=Sequelize&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Sequelize-DB7093?style=flat-square&logo=Sequelize&logoColor=#52B0E7"/>
 </div>
 
 <!--
