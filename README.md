@@ -28,6 +28,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Spring-F7DF1E?style=flat-square&logo=Spring&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Spring Boot-F7DF1E?style=flat-square&logo=Spring Boot&logoColor=FFFFFF"/>
 </div>
 <br/>
 <div align="center">
