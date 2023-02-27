@@ -17,7 +17,7 @@
 <h2 align="center">🛠️ Can use 🛠️</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-E34F26?style=flat-square&logo=Node.js&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Nest.js-1572B6?style=flat-square&logo=Nest.js&logoColor=FFFFFF"/>
 </div>
 <br/>
 <div align="center">
